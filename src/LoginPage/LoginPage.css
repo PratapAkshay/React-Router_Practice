@@ -1,0 +1,16 @@
+
+.Logindiv{
+    display: inline-block;
+    width: 300px;
+    height: 100px;
+    position: absolute;
+    margin: auto;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+.submit_Button{
+    margin: auto;
+    margin-top: 8px;
+}

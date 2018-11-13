@@ -1,0 +1,17 @@
+.page-Header a{
+    display: inline-block;
+    font-size: 23px;
+    text-decoration: none;
+    padding: 0px 20px;
+}
+.page-Header a:hover{
+    background-color: #3877bbb0;
+    color: white;
+}
+.main_Body{
+    border:1px solid black
+}
+.active{
+    background-color: #3877bbb0;
+    color: white;
+}
